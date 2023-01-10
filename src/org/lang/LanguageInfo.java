@@ -5,6 +5,7 @@ public class LanguageInfo {
 	//methodname 
 private void tamilLanguage() {
 	System.out.println("tamilLanguage is");
+	System.out.println("tamil is our mother toungue");
 }
 private void englishLanguage() {
 	System.out.println("englishlLanguage is");
