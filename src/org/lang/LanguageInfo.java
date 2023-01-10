@@ -6,6 +6,7 @@ public class LanguageInfo {
 private void tamilLanguage() {
 	System.out.println("tamilLanguage is");
 	System.out.println("tamil is our mother toungue");
+	System.out.println("tamil is an heritage language");
 }
 private void englishLanguage() {
 	System.out.println("englishlLanguage is");
